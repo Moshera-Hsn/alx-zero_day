@@ -1,7 +1,2 @@
 #!/bin/bash
-echo "ALX
-<<<<<<< HEAD
-School is so cool!"
-=======
-School"
->>>>>>> update_script
+echo "ALX"
